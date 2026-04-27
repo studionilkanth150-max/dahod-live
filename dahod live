@@ -1,0 +1,14 @@
+dahod-live/
+│
+├── public/
+│   ├── logo.png   ✅ (तुम्हारा logo यहाँ डालना)
+│   └── index.html
+│
+├── src/
+│   ├── App.jsx    ✅ (ये जो code अभी है पूरा copy यहाँ डालो)
+│   ├── main.jsx
+│   └── index.css
+│
+├── package.json
+├── vite.config.js
+└── tailwind.config.js
